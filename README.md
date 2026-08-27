@@ -180,7 +180,7 @@ The current version is implemented as a **single-page frontend application**, wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/travelsync.git
+git clone [https://github.com/vinozer19/TravelSync-Smart-Trip-Planner]
 ```
 
 ### 2. Open the Project
